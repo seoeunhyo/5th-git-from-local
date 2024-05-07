@@ -5,3 +5,4 @@ commit_1
 commit_2
 commit_3
 commit_5
+fetch확인용 커밋
